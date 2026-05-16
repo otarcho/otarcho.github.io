@@ -16,4 +16,4 @@ Location data may be used only to provide nearby listings, maps, and directions 
 Third-party services such as Apple Maps or Google Places may process certain data according to their own privacy policies.
 
 For questions, contact:
-your@email.com
+support@ruluon.com
